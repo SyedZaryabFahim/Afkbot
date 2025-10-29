@@ -37,6 +37,7 @@ A simple Telegram bot to manage AFK (Away From Keyboard) statuses for users in a
 
 The bot works in any chat it is added to.
 
-- REGARDS Zaryab!
+- #REGARDS Zaryab!
+
   - Pookie_Updates.t.me
   - TheRichFamily.t.me
