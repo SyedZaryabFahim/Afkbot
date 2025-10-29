@@ -15,4 +15,6 @@ A simple Telegram bot to manage AFK (Away From Keyboard) statuses for users in a
    git clone https://github.com/not-ayan/afkbot afkbot && cd afkbot
 
 # MADE BY POOKIE TECH TEAM
-BY ZARYAB'!
+- BY Zaryab!
+- Pookie_Updates
+- TheRichFamily
