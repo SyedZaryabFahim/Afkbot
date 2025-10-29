@@ -11,7 +11,7 @@ A simple Telegram bot to manage AFK (Away From Keyboard) statuses for users in a
 
 ## Setup
 1. Clone the repo:
-   - `git clone https://github.com/not-ayan/afkbot afkbot && cd afkbot`
+   - `git clone https://github.com/SyedZaryabFahim/Afkbot && cd Afkbot`
 2. Install dependencies:
    - `pip install telethon python-dotenv`
 3. Setup the env:
