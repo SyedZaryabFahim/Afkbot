@@ -1,4 +1,4 @@
-# AFK Bot
+# AFK Bot MADE BY POOKIE TEAM TEAM 
 
 A simple Telegram bot to manage AFK (Away From Keyboard) statuses for users in any chat.
 
@@ -37,8 +37,6 @@ A simple Telegram bot to manage AFK (Away From Keyboard) statuses for users in a
 
 The bot works in any chat it is added to.
 
-
-# MADE BY POOKIE TECH TEAM
-- BY Zaryab!
-- Pookie_Updates
-- TheRichFamily
+- REGARDS Zaryab!
+  - Pookie_Updates.t.me
+  - TheRichFamily.t.me
